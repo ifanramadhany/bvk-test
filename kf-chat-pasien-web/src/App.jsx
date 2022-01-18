@@ -104,7 +104,7 @@ function App() {
           </button>
         </div>
       </div>
-      <span className="text-white mt-1 text-xs">App Version 1.0.0</span>
+      <span className="text-white mt-1 text-xs">AppVersion 1.0.0</span>
     </div>
   );
 }
