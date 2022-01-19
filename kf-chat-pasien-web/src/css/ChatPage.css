@@ -1,0 +1,44 @@
+.header-logo {
+  height: 55px;
+  background-color: #003a78;
+}
+
+.header-users {
+  height: 50px;
+  z-index: 1;
+}
+
+.loggedIn-apoteker {
+  min-width: 400px;
+}
+
+.chat-list {
+  min-width: 400px;
+  background-color: white;
+  z-index: 0;
+}
+
+.chat-activity {
+  width: 100%;
+  background-color: #e5e5e5;
+  z-index: 0;
+}
+
+.text-rekomendasi-obat {
+  color: #7a7a7a;
+}
+
+.customer-info {
+  min-width: 350px;
+}
+
+.option-customer-info {
+  min-width: 100px;
+}
+
+.customer-name {
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden !important;
+  text-overflow: ellipsis;
+}

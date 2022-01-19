@@ -1,0 +1,66 @@
+.container {
+  background-color: #003A78;
+}
+
+.box-login {
+  height: 490px;
+  width: 400px;
+  z-index: +1;
+}
+
+.input-email {
+  color: #7A7A7A;
+}
+
+.wrapper-input-email {
+  height: 37px;
+  background-color: #F2F2F2;
+}
+
+.wrapper-input-failed {
+  height: 37px;
+  background-color: #F2F2F2;
+  border: #EF001D;
+  border-width: 2px;
+  border-style:solid
+}
+
+.email-not-found {
+  color: #EF001D;
+}
+
+.input-password {
+  color: #7A7A7A;
+}
+
+.wrapper-input-password {
+  height: 37px;
+  background-color: #F2F2F2;
+}
+
+.wrong-password {
+  color: #EF001D;
+}
+
+.forget-password {
+  color: #003A78;
+}
+
+.remember {
+  color: #7A7A7A;
+}
+
+.login-button-inactive {
+  height: 37px;
+  background-color: #CCCCCC;
+}
+
+.login-button-active {
+  height: 37px;
+  background-color: #116BCB;
+}
+
+.dot-pattern {
+  z-index: 0;
+  object-fit: cover;
+}
